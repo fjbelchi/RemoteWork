@@ -21,8 +21,19 @@ The following list include companies which operate completly or mostly with dist
 
 #### 10up
 
+#### Zapier
 
 # Tools
+
+#### Sqwiggle
+
+https://www.sqwiggle.com
+
+#### Screenhero
+
+https://screenhero.com
+
+#### Skype
 
 
 # Experiences
