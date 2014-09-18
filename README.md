@@ -31,6 +31,19 @@ The following list include companies which operate completly or mostly with dist
 # Jobs
 
 
+# Remote Workers
+
+### Developers
+
+Name | Github Username | Technologies | Website
+-----|-----------------|--------------|-------- 
+Francisco J. Belchi | @fjbelchi | iOS / Android | http://www.fjbelchi.com
+
+
 # Books
 
 #### Remote : Office Not Required
+http://37signals.com/remote/
+
+#### Remote Work Handbook
+http://blog.fuze.com/remote-work-handbook-available/
