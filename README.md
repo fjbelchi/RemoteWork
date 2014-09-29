@@ -38,6 +38,21 @@ https://screenhero.com
 
 # Experiences
 
+**Joel Gascoigne** *CEO at Buffer*
+>The joys and benefits of working as a distributed team
+
+http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/
+
+**Colin Ross** *chief back-end guy at Buffer*
+
+> My Ideal Daily routine as a Remote pProgrammer
+
+http://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/
+
+**Jimmy Daly** *Head of Content at Vero*
+>I work for a company 7,814 miles away
+
+http://blog.getvero.com/remote-work/
 
 # Jobs
 
