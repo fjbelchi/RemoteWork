@@ -5,7 +5,7 @@ The purpose of this repository is to collect a set of information useful for rem
 
 # Companies
 
-The following list include companies which operate completly or mostly with distributed teams, with employees accross the word collaborating together.
+The following list includes companies which operate completly or mostly with distributed teams, with employees accross the world collaborating together.
 
 #### Mozilla
 
@@ -23,18 +23,11 @@ The following list include companies which operate completly or mostly with dist
 
 #### Zapier
 
-# Tools
+#### WooThemes
 
-#### Sqwiggle
+#### Github
 
-https://www.sqwiggle.com
-
-#### Screenhero
-
-https://screenhero.com
-
-#### Skype
-
+#### Automattic
 
 # Experiences
 
@@ -54,8 +47,24 @@ http://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-cha
 
 http://blog.getvero.com/remote-work/
 
+## Remote Year
+
+>Remote year is a one year program where you get paid to travel around the world with 100 interesting people while working remotely from the beach, pool or coffee shop.  
+
+>The inaugural group leaves June 1, 2015
+
+http://www.remoteyear.com
+
+# Articles
+>How to Fight to Make Your Distributed Team a Competitive Advantage, Not a Weakness
+
+http://www.woothemes.com/2013/07/how-to-fight-to-make-your-distributed-team-a-competitive-advantage-not-a-weakness/
+
 # Jobs
 
+http://www.remoteyear.com/jobs/
+
+https://weworkremotely.com
 
 # Remote Workers
 
@@ -65,6 +74,19 @@ Name | Github Username | Technologies | Website
 -----|-----------------|--------------|-------- 
 Francisco J. Belchi | @fjbelchi | iOS / Android | http://www.fjbelchi.com
 
+# Tools
+
+#### Sqwiggle
+
+https://www.sqwiggle.com
+
+#### Screenhero
+
+https://screenhero.com
+
+#### Skype
+
+http://www.skype.com
 
 # Books
 
