@@ -29,6 +29,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Automattic
 
+#### Teamed.io
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
@@ -37,7 +39,6 @@ The following list includes companies which operate completly or mostly with dis
 http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/
 
 **Colin Ross** *chief back-end guy at Buffer*
-
 > My Ideal Daily routine as a Remote pProgrammer
 
 http://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/
@@ -46,6 +47,13 @@ http://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-cha
 >I work for a company 7,814 miles away
 
 http://blog.getvero.com/remote-work/
+
+**Yegor Bugayenko** *Founder and CTO at Teamed.io*
+
+**Lisette Sutherland** *Director at Collaboration Superpowers*
+>Remote Programing in Teamed.io
+
+http://www.yegor256.com/2014/09/22/remote-programming-interview.html
 
 ## Remote Year
 
@@ -65,6 +73,8 @@ http://www.woothemes.com/2013/07/how-to-fight-to-make-your-distributed-team-a-co
 http://www.remoteyear.com/jobs/
 
 https://weworkremotely.com
+
+http://www.teamed.io
 
 # Remote Workers
 
@@ -104,3 +114,9 @@ http://37signals.com/remote/
 >Learn about the tools you can use to stay connected and how to manage work as an employee working from home, the road, and yes, even an island.
 
 http://blog.fuze.com/remote-work-handbook-available/
+
+#### Collaboration Superpowers
+
+>Packed with stories and tips for those whose business models depend upon successfully bridging distance to accomplish knowledge work.  We have interviewed early adopters and bring you their lessons learned.  Pre-ordering includes invitations to periodic hangouts on air with our interview subjects where you can learn to access and hone your collaboration superpowers.
+
+http://www.collaborationsuperpowers.com
