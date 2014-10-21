@@ -31,6 +31,16 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Teamed.io
 
+#### Lullabot
+
+#### Intridea
+
+#### Compose.io
+
+#### ScrapingHub
+
+#### UniversalMind
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
