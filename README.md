@@ -41,6 +41,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### UniversalMind
 
+#### Lookback
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
