@@ -90,6 +90,8 @@ http://www.teamed.io
 
 http://nomadjobs.io
 
+http://workingnomads.co
+
 # Remote Workers
 
 ### Developers
