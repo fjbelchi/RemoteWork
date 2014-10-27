@@ -88,6 +88,8 @@ https://weworkremotely.com
 
 http://www.teamed.io
 
+http://nomadjobs.io
+
 # Remote Workers
 
 ### Developers
