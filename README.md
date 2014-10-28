@@ -45,6 +45,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Junto Studio
 
+#### Simple as Milk
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
