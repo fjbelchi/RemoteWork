@@ -43,6 +43,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Lookback
 
+#### Junto Studio
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
