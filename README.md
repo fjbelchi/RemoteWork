@@ -47,6 +47,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Simple as Milk
 
+#### Blossom
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
