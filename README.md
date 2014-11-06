@@ -142,3 +142,17 @@ http://blog.fuze.com/remote-work-handbook-available/
 >Packed with stories and tips for those whose business models depend upon successfully bridging distance to accomplish knowledge work.  We have interviewed early adopters and bring you their lessons learned.  Pre-ordering includes invitations to periodic hangouts on air with our interview subjects where you can learn to access and hone your collaboration superpowers.
 
 http://www.collaborationsuperpowers.com
+
+# Resources
+
+## Legal
+
+#### Docracy
+>Docracy is a home for contracts and other legal documents, socially curated by the communities that use them. Our mission is to make these documents freely available for everyone, while in the process making them easier to customize and use.
+
+https://www.docracy.com/
+
+####  Service Contract Repository
+>This is a collection of simple and relatively generic service contracts for the Design / Development crowd.
+
+https://github.com/danielbeardsley/service_contracts/
