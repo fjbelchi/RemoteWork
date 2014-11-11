@@ -100,6 +100,17 @@ http://workingnomads.co
 
 http://careers.stackoverflow.com/jobs/remote
 
+https://remotecoder.io
+
+http://jobmote.com
+
+http://www.authenticjobs.com/#onlyremote=1
+
+https://jobs.github.com/positions?description=&location=Remote
+
+http://remotehackers.com
+
+
 # Remote Workers
 
 ### Developers
