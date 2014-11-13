@@ -44,6 +44,7 @@ The following list includes companies which operate completly or mostly with dis
 #### Lookback
 
 #### Junto Studio
+>Web Design and Development Studio. We believe in creating an environment that fosters creativity and innovation through constant learning. Ultimately, life is about the people you meet, and we want to make this experience great.
 
 #### Simple as Milk
 
