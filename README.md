@@ -79,6 +79,11 @@ http://blog.getvero.com/remote-work/
 
 http://www.yegor256.com/2014/09/22/remote-programming-interview.html
 
+**Youjin Do**
+> One way ticket, documentary about digital nomads
+
+http://digitalnomaddocumentary.com
+
 ## Remote Year
 
 >Remote year is a one year program where you get paid to travel around the world with 100 interesting people while working remotely from the beach, pool or coffee shop.  
@@ -117,6 +122,8 @@ https://jobs.github.com/positions?description=&location=Remote
 http://remotehackers.com
 
 https://www.wfh.io
+
+http://www.remoteworkhunt.com
 
 # Remote Workers
 
