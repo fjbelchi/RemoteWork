@@ -125,6 +125,8 @@ https://www.wfh.io
 
 http://www.remoteworkhunt.com
 
+http://jobs.remotive.io
+
 # Remote Workers
 
 ### Developers
@@ -146,6 +148,11 @@ https://screenhero.com
 #### Skype
 
 http://www.skype.com
+
+#### Hipchat
+
+https://www.hipchat.com
+
 
 # Books
 
@@ -169,6 +176,13 @@ http://blog.fuze.com/remote-work-handbook-available/
 >Packed with stories and tips for those whose business models depend upon successfully bridging distance to accomplish knowledge work.  We have interviewed early adopters and bring you their lessons learned.  Pre-ordering includes invitations to periodic hangouts on air with our interview subjects where you can learn to access and hone your collaboration superpowers.
 
 http://www.collaborationsuperpowers.com
+
+
+#### Reinventing organizations
+
+>A fascinating read about the shift toward a new way of doing business—a way that focuses on autonomy, wholeness, and purpose in the decisions we make and the way we structure our organizations. It’s been called a “soulful revolution,” and having experienced it for the past few months here at Buffer, it’s been hugely edifying, encouraging, and rewarding. 
+
+http://www.reinventingorganizations.com/
 
 # Resources
 
