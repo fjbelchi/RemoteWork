@@ -57,6 +57,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Panda Strike
 
+#### Mokriya
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
