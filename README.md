@@ -59,6 +59,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Mokriya
 
+#### Spiffy
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
