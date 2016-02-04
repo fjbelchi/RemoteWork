@@ -71,6 +71,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Doist
 
+#### Help Scout
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
