@@ -73,6 +73,8 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Help Scout
 
+#### You Need A Budget (YNAB)
+
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
