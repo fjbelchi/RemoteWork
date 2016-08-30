@@ -151,6 +151,10 @@ http://remoteok.io
 
 http://www.remoteworking.io
 
+https://whoishiring.io
+
+https://jobbatical.com
+
 # Remote Workers
 
 ### Developers
