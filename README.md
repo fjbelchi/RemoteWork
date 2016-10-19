@@ -153,6 +153,8 @@ https://whoishiring.io
 
 https://jobbatical.com
 
+https://remotebase.io
+
 # Remote Workers
 
 ### Developers
