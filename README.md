@@ -11,8 +11,6 @@ The following list includes companies which operate completly or mostly with dis
 
 #### Buffer
 
-#### Sqwiggle
-
 #### Basecamp
 
 #### inVision
@@ -51,7 +49,7 @@ The following list includes companies which operate completly or mostly with dis
 #### Blossom
 
 #### PSPDFKit
-> PSPDFKit is the leading framework for displaying and annotating PDFs in your iOS apps. It supports blazingly fast PDF viewing, adding annotations, and filling out forms. Our battle-tested code is trusted by Box, Dropbox, Evernote, and hundreds of other companies. Benefit from a solid, tested codebase and incorporate all those advanced features into your own application. It'll save you at least one year in comparison with in-house development. 
+> PSPDFKit is the leading framework for displaying and annotating PDFs in your iOS apps. It supports blazingly fast PDF viewing, adding annotations, and filling out forms. Our battle-tested code is trusted by Box, Dropbox, Evernote, and hundreds of other companies. Benefit from a solid, tested codebase and incorporate all those advanced features into your own application. It'll save you at least one year in comparison with in-house development.
 
 #### Salesforce
 
@@ -155,19 +153,17 @@ https://whoishiring.io
 
 https://jobbatical.com
 
+https://remotebase.io
+
 # Remote Workers
 
 ### Developers
 
 Name | Github Username | Technologies | Website
------|-----------------|--------------|-------- 
+-----|-----------------|--------------|--------
 Francisco J. Belchi | @fjbelchi | iOS / Android | http://www.fjbelchi.com
 
 # Tools
-
-#### Sqwiggle
-
-https://www.sqwiggle.com
 
 #### Screenhero
 
@@ -208,7 +204,7 @@ http://www.collaborationsuperpowers.com
 
 #### Reinventing organizations
 
->A fascinating read about the shift toward a new way of doing business—a way that focuses on autonomy, wholeness, and purpose in the decisions we make and the way we structure our organizations. It’s been called a “soulful revolution,” and having experienced it for the past few months here at Buffer, it’s been hugely edifying, encouraging, and rewarding. 
+>A fascinating read about the shift toward a new way of doing business—a way that focuses on autonomy, wholeness, and purpose in the decisions we make and the way we structure our organizations. It’s been called a “soulful revolution,” and having experienced it for the past few months here at Buffer, it’s been hugely edifying, encouraging, and rewarding.
 
 http://www.reinventingorganizations.com/
 
