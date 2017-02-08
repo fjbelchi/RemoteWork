@@ -76,24 +76,24 @@ The following list includes companies which operate completly or mostly with dis
 # Experiences
 
 **Joel Gascoigne** *CEO at Buffer*
->The joys and benefits of working as a distributed team
+> The joys and benefits of working as a distributed team
 
 http://joel.is/the-joys-and-benefits-of-working-as-a-distributed-team/
 
 **Colin Ross** *chief back-end guy at Buffer*
-> My Ideal Daily routine as a Remote pProgrammer
+> My Ideal Daily routine as a Remote Programmer
 
 http://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/
 
 **Jimmy Daly** *Head of Content at Vero*
->I work for a company 7,814 miles away
+> I work for a company 7,814 miles away
 
 http://blog.getvero.com/remote-work/
 
 **Yegor Bugayenko** *Founder and CTO at Teamed.io*
 
 **Lisette Sutherland** *Director at Collaboration Superpowers*
->Remote Programing in Teamed.io
+> Remote Programing in Teamed.io
 
 http://www.yegor256.com/2014/09/22/remote-programming-interview.html
 
