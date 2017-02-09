@@ -220,6 +220,13 @@ http://www.reinventingorganizations.com/
 
 # Resources
 
+## Other Lists
+
+#### Awesome Remote Job
+> A curated list of awesome remote working resources.
+
+https://github.com/lukasz-madon/awesome-remote-job
+
 ## Legal
 
 #### Docracy
