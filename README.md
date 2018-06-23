@@ -165,6 +165,10 @@ https://jobbatical.com
 
 https://remotebase.io
 
+[Golangprojects.com](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
+
+[Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
+
 # Remote Workers
 
 ### Developers
