@@ -149,6 +149,8 @@ https://jobs.github.com/positions?description=&location=Remote
 
 http://remotehackers.com
 
+https://www.asklorem.com
+
 https://www.wfh.io
 
 http://www.remoteworkhunt.com
