@@ -131,6 +131,8 @@ http://www.remoteyear.com/jobs/
 
 https://weworkremotely.com
 
+https://www.dailyremote.com
+
 http://www.teamed.io
 
 http://nomadjobs.io
