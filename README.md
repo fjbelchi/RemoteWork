@@ -127,6 +127,8 @@ http://www.woothemes.com/2013/07/how-to-fight-to-make-your-distributed-team-a-co
 
 # Jobs
 
+https://www.remotesome.com
+
 http://www.remoteyear.com/jobs/
 
 https://weworkremotely.com
