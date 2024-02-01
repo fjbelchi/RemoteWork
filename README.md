@@ -173,6 +173,8 @@ https://remotebase.io
 
 [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
 
+[OkJob.io](https://okjob.io) - 4 day week job board
+
 # Remote Workers
 
 ### Developers
