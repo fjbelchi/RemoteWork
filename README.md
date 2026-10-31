@@ -173,6 +173,8 @@ https://remotebase.io
 
 [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
 
+[Autojob](https://autojob.org/?remote=true) - Job board with 20,000+ jobs and an auto-apply feature.
+
 # Remote Workers
 
 ### Developers
